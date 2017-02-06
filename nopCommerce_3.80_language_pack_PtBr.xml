@@ -1162,7 +1162,7 @@
     <Value>O afiliado foi deletado com sucesso</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Description">
-    <Value>Afiliado é uma prática de marketing na Internet em que uma empresa premeia um ou mais afiliados por cada visitante ou cliente.</Value>
+    <Value>Afiliado é uma prática de marketing na Internet em que uma empresa premia um ou mais afiliados por cada visitante ou cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.EditAffiliateDetails">
     <Value>Editar detalhes de afiliado</Value>
